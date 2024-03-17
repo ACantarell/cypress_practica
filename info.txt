@@ -1,0 +1,8 @@
+Bienvenidos al master de cypress
+
+1, npm init
+
+2, npm install cypress --save-dev (instalacion)
+
+3,npx cypress open (para abrir la raiz del proyecto)
+
