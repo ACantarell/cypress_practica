@@ -17,4 +17,8 @@ describe('Desafio numero 2', ()=>{
         //cy.go('back');
     });
 
+    after(() => {
+        cy.url().should('eq', 'https://testpages.eviltester.com/styled/validation/input-validation.html');
+    })
+
 })
