@@ -1,8 +1,39 @@
- {
-  "name": "cypress.io",
-  "lastName": "ApellidoCypress",
+[ {
+  "name": "Pepito",
+  "lastName": "Rodriguez12345",
+  "age": "31",
+  "country": "Argentina",
+  "notes": "aca va el cuerpo de algo qeu se te ocurra"
+},{
+  "name": "Pepito2",
+  "lastName": "Rodriguez12345",
+  "age": "31",
+  "country": "Argentina",
+  "notes": "aca va el cuerpo de algo qeu se te ocurra"
+},{
+  "name": "Pepito3",
+  "lastName": "Rodriguez12345",
+  "age": "31",
+  "country": "Argentina",
+  "notes": "aca va el cuerpo de algo qeu se te ocurra"
+},{
+  "name": "Pepito4",
+  "lastName": "Rodriguez12345",
+  "age": "31",
+  "country": "Argentina",
+  "notes": "aca va el cuerpo de algo qeu se te ocurra"
+},{
+  "name": "Pepito5",
+  "lastName": "Rodriguez12345",
+  "age": "31",
+  "country": "Argentina",
+  "notes": "aca va el cuerpo de algo qeu se te ocurra"
+},{
+  "name": "Amadeo QA",
+  "lastName": "Muchas Gracias Por Verme",
   "age": "31",
   "country": "Argentina",
   "notes": "aca va el cuerpo de algo qeu se te ocurra"
 }
 
+]
